@@ -1,0 +1,23 @@
+# ============================================================
+# requirements.txt
+# Proyecto Final Econometría I
+# Determinantes del gasto monetario de los hogares
+# ============================================================
+
+# Manejo y análisis de datos
+numpy>=1.26.0
+pandas>=2.2.0
+openpyxl>=3.1.0
+
+# Modelos econométricos y estadísticos
+statsmodels>=0.14.0
+linearmodels>=6.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+
+# Visualización
+matplotlib>=3.8.0
+
+# Reporte exploratorio EDA
+# Usado si se desea generar el reporte HTML exploratorio del notebook.
+ydata-profiling>=4.8.0
